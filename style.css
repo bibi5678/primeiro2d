@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 :root{
     --cor-cabecalho:#08113E;
     --cor-fontes:#FFFFFF;
