@@ -32,7 +32,8 @@
     color: #FFFFFF;
     display: flex;
     align-items: center;
-    padding: 24px 16px;
+    padding: 24px 0;
+    padding-left: 15%;
 }
     .escola-div-conteudo{
         width: 35%;
