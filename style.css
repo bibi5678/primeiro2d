@@ -56,13 +56,13 @@
     .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
-    
+
     }
         .estudante-titulo{
             text-align: center;
             padding: 50px 0;
         }
         .estudante{
-            background-color: #4EBFE9;
+            background-color: #19637e;
         }
 
